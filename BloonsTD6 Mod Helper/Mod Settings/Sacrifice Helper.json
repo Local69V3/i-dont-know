@@ -1,0 +1,16 @@
+{
+  "TempleAlternateCost": 50000,
+  "GodAlternateCost": 100000,
+  "SandboxTCBOO": true,
+  "NonMaxTCBOO": true,
+  "SandboxParagons": true,
+  "Unlimited5thTiersInSandbox": true,
+  "MaxFromPops": 90000,
+  "MaxFromCash": 10000,
+  "MaxFromNonTier5s": 10000,
+  "MaxFromTier5s": 90000,
+  "PopsPerPoint": 180,
+  "CashPerPoint": 25,
+  "NonTier5sScaleFactor": 100,
+  "Tier5sScaleFactor": 10000
+}

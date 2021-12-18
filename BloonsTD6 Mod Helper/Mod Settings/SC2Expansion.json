@@ -1,0 +1,7 @@
+{
+  "ProtossEnabled": true,
+  "TerranEnabled": true,
+  "ZergEnabled": true,
+  "RemoveBaseTowers": false,
+  "HeroesEnabled": true
+}

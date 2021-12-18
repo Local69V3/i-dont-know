@@ -1,0 +1,10 @@
+{
+  "OpenLocalDirectory": true,
+  "ExportTowerJSONs": false,
+  "ExportUpgradeJSONs": false,
+  "openBackupDir": true,
+  "openSaveDir": true,
+  "autosavePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\BloonsTD6\\Mods\\BloonsTD6 Mod Helper\\Mod Settings\\Autosave",
+  "timeBetweenBackup": 30,
+  "maxSavedBackups": 10
+}

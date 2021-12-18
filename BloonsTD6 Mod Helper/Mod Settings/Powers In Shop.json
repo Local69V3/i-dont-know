@@ -1,0 +1,19 @@
+{
+  "AllowInChimps": true,
+  "AllowInRestrictedModes": true,
+  "BananaFarmerCost": 500,
+  "TechBotCost": 500,
+  "PontoonCost": 750,
+  "PortableLakeCost": 750,
+  "EnergisingTotemCost": 1000,
+  "RoadSpikesCost": 50,
+  "GlueTrapCost": 100,
+  "CamoTrapCost": 100,
+  "MoabMineCost": 500,
+  "RoadSpikesPierce": 20,
+  "GlueTrapPierce": 300,
+  "MoabMinePierce": 1,
+  "CamoTrapPierce": 500,
+  "TotemRechargeCost": 500,
+  "TotemAttackSpeed": 0.15
+}
